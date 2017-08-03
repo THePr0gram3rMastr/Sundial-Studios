@@ -1,0 +1,86 @@
+@font-face{
+    font-family: "texgyreadventor-bold";
+    src: url('../fonts/texgyreadventor-bold.otf') format('opentype'),
+}
+
+@font-face{
+    font-family: "CabinSketch-Regular";
+    src: url('../fonts/CabinSketch-Regular.ttf') format('truetype'),
+}
+
+sundiallogofont{
+    font-family: CabinSketch-Regular;
+    font-size: 64px;
+}
+
+title {
+    font-family: CabinSketch-Regular;
+    font-size: 44px;
+    position: absolute;
+    left: 0;
+    top: 20%;
+    width: 100%;
+    color: black;
+}
+
+meettheteam-nonscroll {
+    font-family: CabinSketch-Regular;
+    font-size: 44px;
+    position: absolute;
+    left: 0;
+    top: 60%;
+    width: 100%;
+    color: black;
+}
+
+mise {
+    font-family: CabinSketch-Regular;
+    font-size: 30px;
+    position: absolute;
+    left: 0;
+    top: 35%;
+    width: 100%;
+    color: black;
+}
+
+abbey {
+    font-family: CabinSketch-Regular;
+    font-size: 30px;
+    position: absolute;
+    left: 0;
+    top: 65%;
+    width: 100%;
+    color: black;
+}
+
+aboutMise {
+    font-family: CabinSketch-Regular;
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    top: 45%;
+    width: 100%;
+    color: black;
+    padding: 20px;
+}
+
+aboutAbbey {
+    font-family: CabinSketch-Regular;
+    font-size: 20px;
+    position: absolute;
+    left: 0;
+    top: 75%;
+    width: 100%;
+    color: black;
+    padding: 20px;
+}
+
+copyright {
+    font-family: CabinSketch-Regular;
+    font-size: 12px;
+    position: absolute;
+    left: 0;
+    top: 97%;
+    width: 100%;
+    color: black;
+}
