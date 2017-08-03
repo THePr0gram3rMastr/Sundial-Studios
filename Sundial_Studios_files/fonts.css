@@ -1,11 +1,11 @@
 @font-face{
     font-family: "texgyreadventor-bold";
-    src: url('../fonts/texgyreadventor-bold.otf') format('opentype'),
+    src: url('texgyreadventor-bold.otf') format('opentype'),
 }
 
 @font-face{
     font-family: "CabinSketch-Bold;
-    src: url('../fonts/CabinSketch-Bold.ttf') format('truetype'),
+    src: url('CabinSketch-Bold.ttf') format('truetype'),
 }
 
 sundiallogofont{
